@@ -1,0 +1,98 @@
+{
+  "source_text_sha256": "339572a715c8602687fe38b684b666a7ac53385468c5178ab107a60a06fde392",
+  "source_text_len": 27712,
+  "ente": "Agenzia delle Entrate",
+  "tipo": "circolare",
+  "numero": "10",
+  "anno": 2025,
+  "pieces": [
+    {
+      "seq": 0,
+      "kind": "body",
+      "text_len": 2636,
+      "text_sha256": "c29ab0c4c989de81291508b01926577fd2498490e95f9d707bbca9f44b22d800",
+      "contextual_sha256": "9d4dbe625383e02cd80e63326d484c94957d78f0fde14a4a5c8fe140d27406c4",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nCIRCOLARE N. 10/E\n Direzione Centra"
+    },
+    {
+      "seq": 1,
+      "kind": "body",
+      "text_len": 2694,
+      "text_sha256": "567061428db3430f1c55522f966065dc5268461a520a71c4b62bfb79c6ee4640",
+      "contextual_sha256": "24744682fb77befe4eab74fd4718242d0910cc48d61ebfd0464c9efbdb8699e2",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\n2851(di seguito, codice della\nstrad"
+    },
+    {
+      "seq": 2,
+      "kind": "body",
+      "text_len": 2507,
+      "text_sha256": "2e615b5ab3480ab9fe157aee85db6c7d11d6059dd87dcbe13fa37f4dd63f04d2",
+      "contextual_sha256": "39ef3131cbb25ebf75cc066070de1d4adf9e59fa4fe728151c672e985a48c0fd",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nIn deroga al primo\nperiodo, il valo"
+    },
+    {
+      "seq": 3,
+      "kind": "body",
+      "text_len": 2668,
+      "text_sha256": "5ffac8da1ab75ee069bcd7439fe4aaa86ff909753213b3e334d5039473c50121",
+      "contextual_sha256": "e1e733c325a4efbd9637ad55e0fffb947a2a51158ae145d068035a85b7d3582d",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nModifiche apportate dalla legge di "
+    },
+    {
+      "seq": 4,
+      "kind": "body",
+      "text_len": 2603,
+      "text_sha256": "fc2062f08b42fcbaf1dd36b7a0ba30a8b988e46bdfccf18aa8a8b0bd0ff89724",
+      "contextual_sha256": "857769e9627e8563a6299e0c30426ae39b5448bccf6145ccfb5eab36a2958483",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nLa nuova disciplina, pertanto, si a"
+    },
+    {
+      "seq": 5,
+      "kind": "body",
+      "text_len": 2643,
+      "text_sha256": "fc661c163bd397e192daf193907c74a251e7d1c0c83cf90415acb461baa00c3a",
+      "contextual_sha256": "d6dc63a3719a401d252b28d0aeea09cb3ae781b8408051aa36b139a160122078",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nInoltre, nel rispetto del principio"
+    },
+    {
+      "seq": 6,
+      "kind": "body",
+      "text_len": 2830,
+      "text_sha256": "1a55870325a8910755bcf1dcd1e6c3cfd53f4a860d42451e67ad4bb9c66e4d65",
+      "contextual_sha256": "921faf4d414e85a460d9b13cf5326f8cd1aa596e5788a65d42815747d0557d7e",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nConsiderato, altresì, che il medesi"
+    },
+    {
+      "seq": 7,
+      "kind": "body",
+      "text_len": 2663,
+      "text_sha256": "fef20d96c0d19d3bbda44889760fa789a611a6ab318a7483bfec2c88beccde04",
+      "contextual_sha256": "8455911260bcfcf88a561cbe6f146c0739a3d168410eb66c7e6b599bcc5a46ef",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nResta fermo che, affinché la norma "
+    },
+    {
+      "seq": 8,
+      "kind": "body",
+      "text_len": 2948,
+      "text_sha256": "dfa5c5a5051f5887ceef08cdd4dcdb9d8f8aa64bb52356c67db436d593b6c5e6",
+      "contextual_sha256": "8788863a42ffdb0da2ff3896c15ff90a5d353cfefa6bad11ec1fb6ebc5f788ba",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nCriterio di tassazione del fringe b"
+    },
+    {
+      "seq": 9,
+      "kind": "body",
+      "text_len": 2685,
+      "text_sha256": "b22831ed032188783d25d7623ba676a979568e63ac68bafd206eb2dbabec037a",
+      "contextual_sha256": "f5987bf0bc5ccc69d3967f112dafab2007b249b15d11215bb92657fc133df7c2",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nProroga del contratto e riassegnazi"
+    },
+    {
+      "seq": 10,
+      "kind": "body",
+      "text_len": 835,
+      "text_sha256": "1879922f070b480cb7a403a822b84644a5c6fa00bba90b3f0fa1c077f0e6d817",
+      "contextual_sha256": "327cdbc8b5158d83bcf4ef549fb1b0c79ba2adfe52a326761426a2b3f71ba961",
+      "contextual_head": "[Agenzia delle Entrate circolare n. 10/2025]\nResta inteso che, in caso di riasse"
+    }
+  ]
+}

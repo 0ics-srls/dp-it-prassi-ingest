@@ -1,0 +1,386 @@
+CIRCOLARE N. 10/E
+ Direzione Centrale Coordinamento Normativo
+OGGETTO: Modifiche alla disciplina della tassazione dei redditi di lavoro
+dipendente nei casi di concessione in uso promiscuo ai dipendenti
+di autoveicoli, motocicli e ciclomotori – Legge 30 dicembre 2024,
+n. 207 – Disciplina transitoria – Decreto-legge 28 febbraio 2025,
+n. 19, convertito, con modificazioni, dalla legge 24 aprile 2025, n.
+60
+Roma, 3 luglio 2025
+
+2
+INDICE
+Premessa...........................................................................................................................3
+1. Tassazione dei redditi di lavoro dipendente in caso di concessione in uso
+promiscuo ai dipendenti di autoveicoli, motocicli e ciclomotori .................................3
+1.1. Modifiche apportate dalla legge di bilancio 2025 ................................................5
+1.2. Disciplina transitoria introdotta dall’articolo 6, comma 2-bis, del d.l. n. 19 del
+2025 ................................................................................................................................7
+1.3. Criterio di tassazione del fringe benefit basato sul “valore normale” al netto
+dell’utilizzo aziendale......................................................................................................10
+1.4. Proroga del contratto e riassegnazione del veicolo ............................................11
+
+3
+Premessa
+Con la presente circolare si forniscono le istruzioni operative agli Uffici,
+per garantirne l’uniformità di azione, sulle novità fiscali concernenti la tassazione
+dei redditi di lavoro dipendente nei casi di concessione in uso promiscuo ai
+dipendenti di autoveicoli, motocicli e ciclomotori, contenute nella legge 30
+dicembre 2024, n. 207 (di seguito legge di bilancio 2025).
+Si illustrano, altresì, le disposizioni introdotte in materia dall’articolo 6,
+comma 2-bis, del decreto-legge 28 febbraio 2025, n. 19, convertito, con
+modificazioni, dalla legge 24 aprile 2025, n. 60.
+Per semplicità espositiva, i riferimenti normativi relativi alla legge di
+bilancio 2025 sono effettuati direttamente ai commi dell’articolo 1.
+1. Tassazione dei redditi di lavoro dipendente in caso di concessione in
+uso promiscuo ai dipendenti di autoveicoli, motocicli e ciclomotori
+L’articolo 51, comma 4, lettera a), del Testo Unico delle imposte sui redditi,
+approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
+(TUIR), come modificato dal comma 48 della legge di bilancio 2025, nel definire
+il regime fiscale degli autoveicoli – indicati nell’articolo 54, comma 1, lettere a),
+c) e m), del decreto legislativo 30 aprile 1992, n. 2851(di seguito, codice della
+strada) – motocicli e ciclomotori concessi in uso promiscuo ai dipendenti, prevede
+un criterio di determinazione forfetaria del quantum da assoggettare a tassazione,
+in deroga al generale criterio di tassazione dei fringe benefit basato sul “valore
+1 Ai sensi dell’articolo 54, comma 1, lettere a), c) e m), del codice della strada «Gli autoveicoli sono veicoli
+a motore con almeno quattro ruote, esclusi i motoveicoli, e si distinguono, in:
+a) autovetture: veicoli destinati al trasporto di persone, aventi al massimo nove posti, compreso quello del
+conducente;
+(…)
+c) autoveicoli per trasporto promiscuo: veicoli aventi una massa complessiva a pieno carico non superiore
+a 3,5 t o 4,5 t se a trazione elettrica o a batteria, destinati al trasporto di persone e di cose e capaci di
+contenere al massimo nove posti compreso quello del conducente;
+(…)
+m) autocaravan: veicoli aventi una speciale carrozzeria ed attrezzati permanentemente per essere adibiti
+al trasporto e all’alloggio di sette persone al massimo compreso il conducente».
+
+4
+normale”, ai sensi del comma 32 del citato articolo 51 del TUIR.
+Secondo la versione della citata lettera a) del comma 4 dell’articolo 51 in
+vigore fino al 31 dicembre 20243, i valori che costituiscono fringe benefit per l’uso
+promiscuo dei veicoli indicati dalla medesima lettera a), di nuova
+immatricolazione, concessi con contratti stipulati a decorrere dal 1° luglio 2020, si
+quantificavano nella misura del 25 per cento dell’importo corrispondente a una
+percorrenza convenzionale di 15.000 chilometri calcolato sulla base del costo
+chilometrico di esercizio – desumibile dalle tabelle nazionali elaborate
+dall’Automobile club d’Italia (ACI), pubblicate dal Ministero dell’economia e
+delle finanze – al netto degli ammontari eventualmente trattenuti al dipendente.
+La predetta disposizione prevedeva valori percentuali maggiori di
+determinazione forfetaria del reddito di lavoro dipendente per i veicoli
+caratterizzati da una più elevata emissione di anidride carbonica.
+Il comma 633 dell’articolo 1 della legge 27 dicembre 2019, n. 160 (legge di
+bilancio 2020), inoltre, ha stabilito che resta ferma l’applicazione della disciplina
+dettata dall’articolo 51, comma 4, lettera a), del citato TUIR, nel testo vigente al
+2 Ai sensi dell’articolo 51, comma 3, del TUIR ai fini della determinazione in denaro «dei valori di cui al
+comma 1, compresi quelli dei beni ceduti e dei servizi prestati al coniuge del dipendente o a familiari
+indicati nell’articolo 12, o il diritto di ottenerli da terzi, si applicano le disposizioni relative alla
+determinazione del valore normale dei beni e dei servizi contenute nell’articolo 9. In deroga al primo
+periodo, il valore dei beni e servizi alla cui produzione o al cui scambio è diretta l’attività del datore di
+lavoro e ceduti ai dipendenti è determinato in base al prezzo mediamente praticato nel medesimo stadio di
+commercializzazione in cui avviene la cessione di beni o la prestazione di servizi a favore del lavoratore
+o, in mancanza, in base al costo sostenuto dal datore di lavoro. Non concorre a formare il reddito il valore
+dei beni ceduti e dei servizi prestati se complessivamente di importo non superiore nel periodo d’imposta
+a euro 258,23; se il predetto valore è superiore al citato limite, lo stesso concorre interamente a formare
+il reddito».
+3L’articolo 51, comma 4, lettera a), del TUIR, vigente al 31 dicembre 2024, dispone che per «gli autoveicoli
+indicati nell’articolo 54, comma 1, lettere a), c) e m), del codice della strada, di cui al decreto legislativo
+30 aprile 1992, n. 285, i motocicli e i ciclomotori di nuova immatricolazione, con valori di emissione di
+anidride carbonica non superiori a grammi 60 per chilometro (g/km di CO2), concessi in uso promiscuo
+con contratti stipulati a decorrere dal 1° luglio 2020, si assume il 25 per cento dell’importo corrispondente
+ad una percorrenza convenzionale di 15.000 chilometri calcolato sulla base del costo chilometrico di
+esercizio desumibile dalle tabelle nazionali che l’Automobile club d’Italia deve elaborare entro il 30
+novembre di ciascun anno e comunicare al Ministero dell’economia e delle finanze, che provvede alla
+pubblicazione entro il 31 dicembre, con effetto dal periodo d’imposta successivo, al netto degli ammontari
+eventualmente trattenuti al dipendente. La predetta percentuale è elevata al 30 per cento per i veicoli con
+valori di emissione di anidride carbonica superiori a 60 g/km ma non a 160 g/km. Qualora i valori di
+emissione dei suindicati veicoli siano superiori a 160 g/km ma non a 190 g/km, la predetta percentuale è
+elevata al 40 per cento per l’anno 2020 e al 50 per cento a decorrere dall’anno 2021. Per i veicoli con
+valori di emissione di anidride carbonica superiori a 190 g/km, la predetta percentuale è pari al 50 per
+cento per l’anno 2020 e al 60 per cento a decorrere dall’anno 2021»
+
+5
+31 dicembre 2019, per i veicoli concessi in uso promiscuo con contratti stipulati
+entro il 30 giugno 2020.
+Per ulteriori chiarimenti sull’applicazione del regime di tassazione del
+benefit, in vigore fino al 31 dicembre 2024, si rinvia alla risoluzione del 14 agosto
+2020, n. 46/E.
+1.1. Modifiche apportate dalla legge di bilancio 2025
+Il comma 48 della legge di bilancio 20254, ai fini del raggiungimento degli
+obiettivi di transizione ecologica ed energetica, mitigazione e adattamento ai
+cambiamenti climatici previsti nell’ambito dei documenti programmatici, ha
+modificato la disciplina della tassazione dei redditi di lavoro dipendente nei casi
+di concessione in uso promiscuo ai dipendenti di particolari veicoli, sostituendo la
+menzionata lettera a) del comma 4 dell’articolo 51 del TUIR.
+Per effetto della disposizione introdotta con il comma 48, ai fini della
+determinazione del reddito di lavoro dipendente, per i veicoli indicati nel citato
+articolo 54, comma 1, lettere a), c) e m), del codice della strada, i motocicli e i
+ciclomotori di nuova immatricolazione, concessi in uso promiscuo con contratti
+stipulati a decorrere dal 1° gennaio 2025, si assume il 50 per cento dell’importo
+corrispondente a una percorrenza convenzionale di 15.000 chilometri calcolato
+4
+Il comma 48 della legge di bilancio 2025 dispone che, per «il raggiungimento degli obiettivi di transizione
+ecologica ed energetica, mitigazione e adattamento ai cambiamenti climatici previsti nell’ambito dei
+documenti programmatici, la lettera a) del comma 4 dell’articolo 51 del testo unico delle imposte sui
+redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, è sostituita dalla
+seguente:
+«a) per gli autoveicoli indicati nell’articolo 54, comma 1, lettere a), c) e m), del codice della strada, di cui
+al decreto legislativo 30 aprile 1992, n. 285, i motocicli e i ciclomotori di nuova immatricolazione, concessi
+in uso promiscuo con contratti stipulati a decorrere dal 1° gennaio 2025, si assume il 50 per cento
+dell’importo corrispondente ad una percorrenza convenzionale di 15.000 chilometri calcolato sulla base
+del costo chilometrico di esercizio desumibile dalle tabelle nazionali che l’Automobile club d’Italia elabora
+entro il 30 novembre di ciascun anno e comunica al Ministero dell’economia e delle finanze, il quale
+provvede alla pubblicazione entro il 31 dicembre, con effetto dal periodo d’imposta successivo, al netto
+delle somme eventualmente trattenute al dipendente. La predetta percentuale è ridotta al 10 per cento per
+i veicoli a batteria a trazione esclusivamente elettrica e al 20 per cento per i veicoli elettrici ibridi plugin».».
+
+6
+sulla base del costo chilometrico di esercizio5, al netto delle somme eventualmente
+trattenute al dipendente.
+La predetta percentuale è ridotta al 10 per cento per i veicoli a batteria a
+trazione esclusivamente elettrica ovvero al 20 per cento per i veicoli elettrici ibridi
+plug-in.
+La nuova disciplina, pertanto, si applica ai veicoli, come sopra individuati,
+che rispettino congiuntamente i seguenti requisiti:
+− siano stati immatricolati a decorrere dal 1° gennaio 2025;
+− siano stati concessi in uso promiscuo ai lavoratori dipendenti con
+contratti stipulati a decorrere dal 1° gennaio 2025;
+− siano stati assegnati (i.e. consegnati) ai lavoratori dipendenti a decorrere
+dal 1° gennaio 2025.
+Al riguardo, al fine di individuare i veicoli concessi in uso promiscuo che
+ricadono nella disciplina modificata dalla norma in commento, si ritiene,
+conformemente a quanto chiarito con la citata risoluzione n. 46/E del 2020, che la
+concessione del veicolo in uso promiscuo non debba considerarsi un atto
+unilaterale da parte del datore di lavoro, ma necessita dell’accettazione del
+lavoratore, che si concretizza sia attraverso la sottoscrizione6 dell’atto di
+assegnazione del fringe benefit, da parte del datore di lavoro e del dipendente, sia
+mediante l’assegnazione7 del bene a quest’ultimo.
+Pertanto, il momento della sottoscrizione dell’atto di assegnazione da parte
+del datore di lavoro e del dipendente per l’assegnazione del benefit costituisce il
+5
+Il costo chilometrico di esercizio è desumibile dalle tabelle nazionali che l’ACI elabora entro il 30
+novembre di ciascun anno e comunica al Ministero dell’economia e delle finanze, il quale provvede alla
+pubblicazione entro il 31 dicembre, con effetto dal periodo d’imposta successivo.
+6 Al riguardo, con la citata risoluzione n. 46/E del 2020 si è ritenuto che “il momento della sottoscrizione
+dell’atto di assegnazione da parte del datore di lavoro e del dipendente per l’assegnazione del benefit
+costituisca il momento rilevante al fine di individuare i «contratti stipulati a decorrere dal 1° luglio
+2020».”.
+7 Sul punto, sempre con la risoluzione n. 46/E del 2020, è stato chiarito che “alla luce del principio di cassa,
+che presiede la determinazione del reddito di lavoro dipendente, in applicazione del quale la retribuzione
+deve essere imputata in base al momento di effettiva percezione della stessa da parte del lavoratore (…) il
+momento di percezione del bene in natura coincide con quello in cui il fringe benefit esce dalla sfera
+patrimoniale dell’erogante per entrare in quella del dipendente” e pertanto “affinché la nuova
+formulazione della norma in esame trovi applicazione è necessario, tra l’altro, che l’autoveicolo, il
+motociclo o il ciclomotore sia assegnato al dipendente a decorrere dal 1° luglio 2020”.
+
+7
+momento rilevante al fine di individuare i «contratti stipulati a decorrere dal 1°
+gennaio 2025».
+Inoltre, nel rispetto del principio di cassa, che presiede la determinazione
+del reddito di lavoro dipendente, atteso che il momento di percezione del bene in
+natura coincide con quello in cui il fringe benefit esce dalla sfera patrimoniale
+dell’erogante per entrare in quella del dipendente, affinché la nuova formulazione
+della norma trovi applicazione è necessario, tra l’altro, che l’autoveicolo, il
+motociclo o il ciclomotore sia assegnato al dipendente a decorrere dal 1° gennaio
+2025.
+Parimenti, alla luce dell’interpretazione resa con la citata risoluzione, per
+veicoli «di nuova immatricolazione» devono intendersi i veicoli immatricolati a
+decorrere dal 1° gennaio 2025.
+Ciò considerato, consegue che, in ossequio ai principi generali
+dell’ordinamento, la disciplina di cui all’articolo 51, comma 4, lettera a), del TUIR,
+come modificata dal citato comma 48, è applicabile ai veicoli che, a decorrere dal
+1° gennaio 2025, siano immatricolati, oggetto di contratti di concessione in uso
+promiscuo e consegnati al dipendente.
+1.2. Disciplina transitoria introdotta dall’articolo 6, comma 2-bis, del
+d.l. n. 19 del 2025
+Come detto, il regime di tassazione introdotto con la legge di bilancio 2025
+si applica ai veicoli che soddisfano, a decorrere dal 1° gennaio 2025, tutti i citati
+requisiti previsti dalla nuova lettera a) del comma 4 dell’articolo 51 del TUIR
+(sottoscrizione del contratto di concessione in uso promiscuo, immatricolazione e
+consegna), come sopra declinati.
+Ciò premesso, al fine di assicurare la progressiva attuazione delle misure
+finalizzate al raggiungimento degli obiettivi di transizione energetica nel rispetto
+dei princìpi di progressività e proporzionalità per le famiglie e le imprese, è stata
+introdotta una specifica disciplina transitoria per i veicoli che non rientrano nel
+
+8
+predetto regime di cui al comma 48 della legge di bilancio 2025. L’articolo 6,
+comma 2-bis8, del d.l. n. 19 del 2025 inserisce, infatti, dopo il citato comma 48, il
+comma 48-bis, il quale dispone che «resta ferma» l’applicazione della disciplina
+di cui all’articolo 51, comma 4, lettera a), del TUIR, nel testo vigente al 31
+dicembre 2024, con riferimento sia ai «veicoli concessi in uso promiscuo dal 1°
+luglio 2020 al 31 dicembre 2024», sia a quelli «ordinati dai datori di lavoro entro
+il 31 dicembre 2024 e concessi in uso promiscuo dal 1° gennaio 2025 al 30 giugno
+2025».
+Tenuto conto che il comma 48-bis fa esclusivo riferimento alla
+«concessione in uso promiscuo» del veicolo e non anche alla stipulazione del
+relativo contratto, si ritiene che, ai fini in esame, rilevi la data di consegna del
+veicolo al dipendente. Considerato, altresì, che il medesimo comma 48-bis prevede
+che «resta ferma» la disciplina vigente sino al 31 dicembre 2024, con riferimento
+sia ai «veicoli concessi in uso promiscuo dal 1° luglio 2020 al 31 dicembre 2024»,
+sia a quelli «ordinati dai datori di lavoro entro il 31 dicembre 2024 e concessi in
+uso promiscuo dal 1° gennaio 2025 al 30 giugno 2025, si ritiene che il comma 48-
+bis debba essere applicato, per quanto compatibile, in combinato disposto con
+quanto stabilito dall’articolo 51, comma 4, lettera a), del TUIR, nella versione in
+vigore fino al 31 dicembre 2024.
+In particolare, secondo quanto previsto dalla prima parte del comma 48-bis,
+si ritiene che ai veicoli concessi in uso promiscuo (i.e. consegnati) ai dipendenti
+dal 1° luglio 2020 al 31 dicembre 2024, che rispettano gli ulteriori requisiti, di
+immatricolazione e stipulazione del contratto previsti dal citato articolo 51, comma
+4, lettera a), del TUIR9, nella versione previgente, continui ad applicarsi la
+8
+Il comma 2-bis, inserito dalla l. n. 60 del 2025, di conversione del d.l. n. 19 del 2025, dispone che al «fine
+di assicurare la progressiva attuazione delle misure finalizzate al raggiungimento degli obiettivi di
+transizione energetica nel rispetto dei princìpi di progressività e proporzionalità per le famiglie e le
+imprese, all’articolo 1 della legge 30 dicembre 2024, n. 207, dopo il comma 48 è inserito il seguente:
+«48-bis. Resta ferma l’applicazione della disciplina dettata dall’articolo 51, comma 4, lettera a), del citato
+testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986,
+n. 917, nel testo vigente al 31 dicembre 2024, per i veicoli concessi in uso promiscuo dal 1° luglio 2020 al
+31 dicembre 2024 nonché per i veicoli ordinati dai datori di lavoro entro il 31 dicembre 2024 e concessi
+in uso promiscuo dal 1° gennaio 2025 al 30 giugno 2025».
+9 Nella versione in vigore fino al 31 dicembre 2024.
+
+9
+medesima disciplina10. In altri termini, ai veicoli immatricolati, oggetto di contratti
+di concessione in uso promiscuo e consegnati al dipendente, dal 1° luglio 2020 al
+31 dicembre 2024, si applica - fino alla naturale scadenza dei predetti contratti11-
+il regime di tassazione vigente al 31 dicembre 2024.
+La seconda parte del citato comma 48-bis estende, inoltre, il regime di cui
+all’articolo 51, comma 4, lettera a), del TUIR, in vigore fino al 31 dicembre 2024,
+anche ai veicoli «ordinati dal datore di lavoro»
+12 entro la medesima data e
+«concessi in uso promiscuo dal 1° gennaio 2025 al 30 giugno 2025». Più nel
+dettaglio, la norma consente di applicare il regime di tassazione previgente anche
+nell’ipotesi in cui il veicolo sia stato ordinato dal datore di lavoro entro il 31
+dicembre 2024 e sia stato consegnato al dipendente dal 1° gennaio al 30 giugno
+2025. Resta fermo che, affinché la norma in commento trovi applicazione, è
+necessario che, nel periodo compreso tra il 1° luglio 2020 e il 30 giugno 2025,
+sussistano anche gli ulteriori requisiti, di immatricolazione e stipulazione del
+contratto.
+Ad esempio, nel caso in cui un veicolo sia ordinato il 10 luglio 2024,
+concesso in uso con un contratto stipulato il 20 dicembre 2024, immatricolato e
+consegnato al dipendente a febbraio 2025, il regime di tassazione da applicare al
+fringe benefit è quello dell’articolo 51, comma 4, lettera a), del TUIR, vigente al
+31 dicembre 2024.
+Analogamente, il regime previgente è applicabile anche al caso in cui un
+veicolo sia ordinato il 10 luglio 2024, concesso in uso con un contratto stipulato il
+5 febbraio 2025, immatricolato e consegnato al dipendente a maggio 2025.
+Tuttavia, atteso che la ratio della norma transitoria, contenuta nell’articolo
+48-bis è quella di assicurare la progressiva attuazione delle misure finalizzate al
+10 In proposito, la Relazione tecnica al d.l. n. 19 del 2025 chiarisce che la disciplina previgente si applica
+“… alle assegnazioni di veicoli aziendali effettuate con contratti stipulati dal 1° luglio 2020 al 31 dicembre
+2024”. Ne consegue che per i veicoli immatricolati in data antecedente il 1° luglio 2020, trova applicazione
+la regola generale di cui al citato articolo 51, comma 3, del TUIR (cfr. al riguardo il paragrafo successivo).
+11 Fatto salvo quanto si dirà nel paragrafo 1.4.
+12 In merito ai veicoli «ordinati dal datore di lavoro», occorre fare riferimento alla data dell’ordine di
+acquisto o noleggio del veicolo medesimo.
+
+10
+raggiungimento degli obiettivi di transizione energetica, nel rispetto dei principi di
+progressività e proporzionalità per le famiglie e le imprese, senza penalizzare le
+imprese e i dipendenti, si evidenzia quanto segue. Laddove il veicolo, ordinato
+entro il 31 dicembre 2024, in relazione al quale i requisiti di immatricolazione,
+stipulazione del contratto e consegna si siano verificati dal 1° gennaio al 30 giugno
+2025, rientri nella tipologia dei veicoli che, ai sensi del comma 48 della legge di
+bilancio 2025, godono delle percentuali di agevolazione più elevate, si ritiene
+applicabile, in ogni caso, la più favorevole disciplina introdotta dal citato comma
+48, in considerazione del fatto che i requisiti previsti per accedere alla nuova
+disciplina si sono comunque tutti verificati nel 202513. Peraltro, la disposizione
+transitoria ha l’evidente finalità di salvaguardare l’affidamento dei contribuenti e,
+pertanto, non possono conseguirne effetti penalizzanti per il contribuente rispetto
+all’applicazione della normativa a regime.
+1.3. Criterio di tassazione del fringe benefit basato sul “valore
+normale” al netto dell’utilizzo aziendale
+Al di fuori delle ipotesi indicate nei paragrafi precedenti, resta fermo che la
+quantificazione del benefit derivante dall’uso promiscuo di veicoli aziendali – non
+rientranti nelle fattispecie sopra illustrate – segue il criterio generale dettato
+dall’articolo 51, comma 3, primo periodo, del TUIR14, in base al quale la
+determinazione in denaro dei valori percepiti dal dipendente, nell’ambito del
+rapporto di lavoro, avviene applicando le disposizioni relative alla determinazione
+del valore normale dei beni e dei servizi contenute nell’articolo 9 del medesimo
+TUIR per la sola parte riferibile all’uso privato del veicolo.
+Al riguardo, si conferma quanto già chiarito con la citata risoluzione n. 46/E
+13 Trattasi, ad esempio, dei veicoli a batteria a trazione esclusivamente elettrica, elettrici ibridi plug in o dei
+veicoli con emissione di anidride carbonica superiore a 190 g/km.
+14 Secondo quanto previsto dall’articolo 51, comma 3, primo periodo, del TUIR, ai fini «della
+determinazione in denaro dei valori di cui al comma 1, compresi quelli dei beni ceduti e dei servizi prestati
+al coniuge del dipendente o a familiari indicati nell’articolo 12, o il diritto di ottenerli da terzi, si applicano
+le disposizioni relative alla determinazione del valore normale dei beni e dei servizi contenute nell’articolo
+9».
+
+11
+del 2020, secondo cui, in base al rinvio ai principi espressi nella risoluzione 20
+giugno 2017, n. 74/E, in relazione al trattamento fiscale delle spese rimborsate dal
+datore di lavoro per l’utilizzo di telefoni cellulari per finalità anche aziendali, “il
+benefit dovrà essere fiscalmente valorizzato per la sola parte riferibile all’uso
+privato dell’autoveicolo, motociclo o ciclomotore, scorporando quindi dal suo
+valore normale, l’utilizzo nell’interesse del datore di lavoro”
+15
+.
+Ad esempio, il criterio di tassazione del fringe benefit, basato sul “valore
+normale” al netto dell’utilizzo aziendale, trova applicazione nel caso in cui si tratti
+di veicoli, ordinati entro il 31 dicembre 2024, concessi in uso promiscuo ai
+lavoratori dipendenti, con contratti stipulati nel 2024, immatricolati nel 2025 e
+consegnati al lavoratore a luglio 2025. In tal caso, infatti, non può trovare
+applicazione la prima parte della disciplina transitoria contenuta nel comma 48-bis
+della legge di bilancio 2025, in quanto l’immatricolazione e la consegna non
+avvengono entro il 31 dicembre 2024. Né trova applicazione la seconda parte della
+citata disciplina transitoria, in quanto la consegna avviene dopo il 30 giugno 2025
+e, del pari, non può trovare applicazione la nuova disciplina, introdotta dalla legge
+di bilancio 2025, in quanto i requisiti previsti dalla lettera a) del comma 4
+dell’articolo 51 del TUIR della sottoscrizione del contratto, dell’immatricolazione
+e della consegna non si verificano tutti nel 2025.
+1.4. Proroga del contratto e riassegnazione del veicolo
+In caso di proroga di un contratto di concessione in uso promiscuo di un
+veicolo, atteso che si tratta della mera estensione della sua durata, che di per sé non
+dà luogo ad una novazione soggettiva o oggettiva, si ritiene, in relazione a questo
+specifico contesto, che sia applicabile la disciplina fiscale relativa al momento
+della sottoscrizione dell’originario contratto, fino alla naturale scadenza della
+15 La risoluzione n. 46/E del 2020 precisa che tale conclusione discende dalla circostanza che “laddove il
+legislatore non abbia indicato un criterio forfetario per la valorizzazione di un benefit, i costi sostenuti dal
+dipendente nell’esclusivo interesse del datore di lavoro, devono essere individuati sulla base di elementi
+oggettivi, documentalmente accertabili, al fine di evitare che l’intero “valore normale” di esso concorra
+alla determinazione del reddito di lavoro dipendente”.
+
+12
+proroga medesima, purché alla data della stipula risultino soddisfatti i requisiti
+normativamente previsti.
+Invece, in caso di riassegnazione del veicolo a un altro dipendente,
+attraverso la stipula di un nuovo contratto, che coinvolge un soggetto diverso, si
+ritiene, tenuto conto della ratio del comma 48 della legge di bilancio 2025,
+finalizzata al «raggiungimento degli obiettivi di transizione ecologica ed
+energetica, mitigazione e adattamento ai cambiamenti climatici previsti
+nell’ambito dei documenti programmatici», che la disciplina fiscale applicabile
+debba essere individuata sulla base delle disposizioni vigenti al momento della
+riassegnazione.
+Pertanto, in caso di riassegnazione di un veicolo, già oggetto di contratto in
+essere al 31 dicembre 2024 e immatricolato a decorrere dal 1° luglio 2020:
+− trova applicazione la disciplina introdotta dal comma 48-bis della legge
+di bilancio (vale a dire la disciplina di cui all’articolo 51, comma 4,
+lettera a, del TUIR, nella formulazione vigente al 31 dicembre 2024),
+se, in base al nuovo contratto di riassegnazione stipulato nel 2025, la
+“concessione in uso promiscuo” (i.e. la consegna) del veicolo è avvenuta
+entro il 30 giugno 2025 (con l’ordine effettuato entro il 31 dicembre
+2024);
+− la quantificazione del benefit segue il criterio generale dettato
+dall’articolo 51, comma 3, primo periodo, del TUIR, secondo le
+indicazioni di cui al paragrafo precedente, se, in base al nuovo contratto
+di riassegnazione stipulato nel 2025, la “concessione in uso promiscuo”
+(i.e. la consegna) del veicolo avviene dopo il 30 giugno 2025, non
+ricorrendo le condizioni ai fini dell’applicabilità della disciplina
+transitoria, di cui al comma 48-bis della legge di bilancio 2025.
+Resta inteso che, in caso di riassegnazione di un veicolo che è immatricolato
+dal 1° gennaio 2025 e che, a decorrere dalla medesima data, è oggetto di un
+contratto di concessione in uso promiscuo ed è consegnato al dipendente, si applica
+il comma 48 della legge di bilancio 2025, nel presupposto che, al momento della
+
+13
+riassegnazione, i requisiti previsti per accedere alla nuova disciplina si sono tutti
+verificati a partire dal 1° gennaio 2025 (immatricolazione, stipula del contratto di
+concessione in uso promiscuo – con il diverso dipendente – e consegna).
+***
+Le Direzioni regionali vigileranno affinché le istruzioni fornite e i principi
+enunciati con la presente circolare vengano puntualmente osservati dalle Direzioni
+provinciali e dagli Uffici dipendenti.
+IL DIRETTORE DELL’AGENZIA
+Vincenzo Carbone
+(firmato digitalmente)
