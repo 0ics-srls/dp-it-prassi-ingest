@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.dataplatform.0ics.ai/it-prassi/plan/1.json",
+  "title": "it-prassi plan file (one per PDF), written by dp-it-prassi-convert and read by dp-it-prassi-ingest",
+  "type": "object",
+  "required": ["version", "documento", "riferimenti", "skipped", "warnings"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "const": 1 },
+    "documento": {
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "object",
+          "required": ["ente", "struttura", "tipo", "numero", "anno", "data", "oggetto", "text_raw", "estrazione", "fonte", "source_id", "source_url"],
+          "additionalProperties": false,
+          "properties": {
+            "ente": { "type": "string", "minLength": 1 },
+            "struttura": { "type": ["string", "null"] },
+            "tipo": { "type": "string", "minLength": 1, "pattern": "^[^A-Z]+$" },
+            "numero": { "type": ["string", "null"] },
+            "anno": { "type": ["integer", "null"], "minimum": 1900, "maximum": 2200 },
+            "data": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+            "oggetto": { "type": ["string", "null"] },
+            "text_raw": { "type": "string", "pattern": "\\S" },
+            "estrazione": { "enum": ["testo", "ocr"] },
+            "fonte": { "enum": ["ade-portale", "doctrib"] },
+            "source_id": { "type": "string", "minLength": 1 },
+            "source_url": { "type": ["string", "null"] }
+          }
+        }
+      ]
+    },
+    "riferimenti": {
+      "type": "array",
+      "maxItems": 60,
+      "items": {
+        "type": "object",
+        "required": ["ord", "descrizione", "articolo", "comma", "norma_urn", "via"],
+        "additionalProperties": false,
+        "properties": {
+          "ord": { "type": "integer", "minimum": 0 },
+          "descrizione": { "type": "string", "minLength": 1 },
+          "articolo": { "type": ["string", "null"] },
+          "comma": { "type": ["string", "null"] },
+          "norma_urn": { "type": ["string", "null"] },
+          "via": { "enum": ["alias", "numero_data", "numero_anno", null] }
+        }
+      }
+    },
+    "skipped": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["item_ref", "reason"],
+        "additionalProperties": false,
+        "properties": {
+          "item_ref": { "type": "string", "minLength": 1 },
+          "reason": { "enum": ["pdf_unreadable", "ocr_empty", "contenuto_vuoto", "convert_failed"] }
+        }
+      }
+    },
+    "warnings": { "type": "array", "items": { "type": "string" } }
+  }
+}

@@ -3,7 +3,7 @@ FROM python:3.12-slim
 WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
-COPY *.py ./
+COPY *.py plan.schema.json ./
 COPY src ./src
 ENV PYTHONPATH=/app/src
 ENTRYPOINT ["python", "main.py"]
