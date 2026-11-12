@@ -1,0 +1,20 @@
+{
+  "specVersion": "1.1",
+  "type": "stdin",
+  "name": "dp-it-prassi-ingest",
+  "version": "0.1.0",
+  "description": "Loads the prassi plan files into the ds_it_prassi dataset (documenti, passages, riferimenti_norma, skipped, coverage). Placeholder manifest until block 14.",
+  "author": "open-lex-it",
+  "authentication": false,
+  "actions": {
+    "execute": {
+      "description": "Placeholder: read <stem>.plan.json files from dirIn and write them into the dataset in one transaction per item.",
+      "input": { "type": "object", "properties": { "dirIn": { "type": "string" } } }
+    },
+    "terminate": {
+      "description": "Stop and clean up.",
+      "input": { "type": "object", "properties": {} }
+    }
+  },
+  "execution": { "timeout": 3600, "memoryLimit": "512Mi", "cpuLimit": "1.0" }
+}
